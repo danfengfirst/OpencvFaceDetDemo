@@ -66,5 +66,6 @@ D:\software\android-ndk-r14b\ndk-build
 ## 优化人脸检测
 
 1、 如果想要优化人脸检测可以考虑从从选择的xml文件是haar的还是lbp的入手
+
 2、如果想优化检测速度可以考虑对mat进行resize
 
